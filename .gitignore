@@ -1,0 +1,122 @@
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Ww][Ii][Nn]32/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# Visual Studio cache/options
+.vs/
+.vscode/
+*.user
+*.suo
+*.sln.docstates
+*.userosscache
+
+# Visual Studio Code
+.vscode/
+*.code-workspace
+
+# Rider
+.idea/
+*.sln.iml
+*.swp
+*.swo
+*~
+
+# Visual Studio for Mac
+.DS_Store
+*.xcworkspace/
+xcuserdata/
+
+# ReSharper
+_ReSharper*/
+*.resharper
+*.resharper.user
+*.ReSharperXML
+
+# NuGet
+*.nupkg
+*.snupkg
+.nuget/
+NuGetFallbackFolder/
+packages/
+.nuget/packages/
+
+# Node modules (for web projects)
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Local environment variables
+.env
+.env.local
+.env.*.local
+appsettings.Development.json
+appsettings.Local.json
+
+# Logs
+*.log
+logs/
+Logs/
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# SQL Server database files
+*.mdf
+*.ldf
+*.ndf
+*.mdb
+
+# Azure Function Core Tools
+azure-functions-core-tools.zip
+azure_functions_core_tools/
+
+# Azure Service Fabric local cluster
+.sfproj.user
+
+# Application Insights
+ApplicationInsights.config
+appsettings.json
+appsettings.Production.json
+
+# EF Core migrations (if needed to ignore)
+# Migrations/
+
+# Coverage reports
+OpenCover/
+CodeCoverage/
+coverage/
+*.coverage
+*.coveragexml
+
+# Local deployment
+publish/
+PublishProfiles/
+*.PublishSettings
+*.azurePubxml
+*.exe
+*.dll
+*.pdb
+
+# Temp files
+*.tmp
+*.temp
+tmp/
+
+# OS files
+.DS_Store
+Thumbs.db
